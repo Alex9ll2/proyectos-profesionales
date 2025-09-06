@@ -1,2 +1,3 @@
-# proyectos-profesionales
-Repositorio con proyectos realizados en diferentes lenguajes de programación (JAVA, C, y Python). Realizados con manejo de versiones y con distintas complejidades.
+# Proyectos Profesionales
+Este repositorio reúne proyectos realizados en diferentes lenguajes de programación (**Java, C y Python**).  
+Los proyectos están organizados por carpetas y presentan distintos niveles de complejidad, desde programas básicos hasta aplicaciones más avanzadas.  
